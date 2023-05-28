@@ -26,7 +26,7 @@ namespace winda
             private bool[] floor_ready;
             public Winda()//pusty konstruktor
             {
-                level = 0;
+                level = 15;
                 top_level = 10;
                 floor_ready = new bool[10];
             }
