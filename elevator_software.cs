@@ -27,7 +27,7 @@ namespace winda
             public Winda()//pusty konstruktor
             {
                 level = 15;
-                top_level = 10;
+                top_level = 20;
                 floor_ready = new bool[10];
             }
             public Winda(int lvl,int top)//konstruktor z dwoma parametrami
