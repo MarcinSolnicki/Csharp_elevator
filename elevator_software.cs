@@ -56,7 +56,7 @@ namespace winda
                     winda_status = status.Goingup;
                    
                     level++;
-                    Console.WriteLine("{0}, jedziemy  na {1}", winda_status, level);
+                    Console.WriteLine("{0}, jedziemy  na piętro {1}", winda_status, level);
                 }
                  winda_status=status.Stopped;
 
